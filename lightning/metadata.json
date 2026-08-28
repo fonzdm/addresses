@@ -1,0 +1,10 @@
+{
+  "nostr": {
+    "npub": "npub126e0s98qpx0688yfy46qrg4c59zuyf6srjfxvr2mtt8vu8xmvsaqps4r8s",
+    "nip05": "_@fonzdm.xyz"
+  },
+  "lightning": {
+    "clink_offer": "noffer1qqsrf5h4ya83jk8u6t9jgc76h6kalz3plp9vusjpm2ygqgalqhxgp9gpz3mhxue69uhhyetvv9ujuerpd46hxtnfdupquun9d35kzcnvv43hymmhx5eqxqgzm6mcze",
+    "bolt12_offer": "lno1pg0yvet5vd5x2epqwe5kzgzvd9nksarwd9hxwgzdv46xzerpw3s3pdcqpvn2cqqpnvqqzqa6r4qdjgte0we9fqt7tx3djqf2vqqajz0qea3edvc2v7mvrsr8fspq9plqzd2agn54yf0xzdjrcu8zt4zggcm6p7p7wysp70hzxsakmqqnqqdyxlvg276ht4aeq0mzzyedg66q83nh4fxw9z86u5fmjqa5msn46mh5h3h30w39xezxvyytfwhdmgaypfg4vp43l9lwdzdh6vqzcagj9vzlz30wxe56h9gukfx6yxlqalv63k6l9qqd94c2f7tuz9gxjl75hh6xqex72q99t92pvggrjrkjy3ygx2m9mwq29vl80z4ajxmhjwaxqd0ajrpvns7hp8nsn33q"
+  }
+}
