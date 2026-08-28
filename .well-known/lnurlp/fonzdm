@@ -1,0 +1,8 @@
+{
+  "callback": "https://zeuspay.com/api/lnurl/nuts/pay/reliablecrow52",
+  "metadata": "[[\"text/plain\",\"Here's to the crazy ones. The misfits. The rebels. The troublemakers. The nuts.\"],[\"text/identifier\",\"reliablecrow52@zeuspay.com\"]]",
+  "tag": "payRequest",
+  "minSendable": 1000,
+  "maxSendable": 612000000000,
+  "commentAllowed": 600
+}
